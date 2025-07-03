@@ -20,7 +20,7 @@ Ex-Software Engineer @ Genxlead Solutions
 ### 🚀 Social
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ari_r_1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ari/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_josephari/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arisanalytics/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arisanalytics)
   
 📺 **YouTube**: 1.25K subs | 94K views
@@ -30,16 +30,16 @@ Ex-Software Engineer @ Genxlead Solutions
 <code><img src="https://img.icons8.com/color/48/000000/sql.png" width="40" title="SQL"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" title="NumPy"/></code>
-<code><img src="https://matplotlib.org/_static/logo2_compressed.svg" width="100" title="Matplotlib"/></code>
+<code><img src="https://matplotlib.org/_static/logo2_compressed.svg" width="70" title="Matplotlib"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" title="HTML5"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/css3.png" width="40" title="CSS3"/></code>
-<code><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" title="Seaborn"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90" title="Scikit-learn"/></code>
+<code><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" title="Seaborn"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" title="Scikit-learn"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="40" title="TensorFlow"/></code>
 <code><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" title="PyTorch"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" title="MySQL"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" title="MongoDB"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="80" title="Kaggle"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="60" title="Kaggle"/></code>
 
 ### ⚙️ Tech Stack & Utilities
 <code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" title="VS Code"/></code>
