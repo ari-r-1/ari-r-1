@@ -40,6 +40,7 @@ Ex-Software Engineer @ Genxlead Solutions
 <code><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" title="MySQL"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" title="MongoDB"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="60" title="Kaggle"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/flask.png" width="60" title="Flask"/></code>
 
 ### ⚙️ Tech Stack & Utilities
 <code><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" title="VS Code"/></code>
