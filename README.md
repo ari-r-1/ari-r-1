@@ -23,7 +23,7 @@ Ex-Software Engineer @ Genxlead Solutions
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arisanalytics/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arisanalytics)
   
-📺 **YouTube**: 1.25K subs | 94K views
+📺 **YouTube**: 1.25K subscribers | 94K views
 
 ### 🔬 Code Microscope
 <code><img src="https://img.icons8.com/color/48/000000/python.png" width="40" title="Python"/></code>
