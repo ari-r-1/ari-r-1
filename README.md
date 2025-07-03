@@ -10,9 +10,9 @@ ThinkGenius: Where deep thinking meets deep learning.🤖🧠
 </p>
 
 Ex-Software Engineer @ Genxlead Solution Pvt Ltd
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/3o6gE8snazc3WdXIqQ/giphy.gif" alt="Genius Data Scientist GIF"/>
+<img align="right" width="370" height="290" src="https://media.tenor.com/IaIb1LDC3aAAAAAi/albert-einstein-think.gif" alt="Genius Data Scientist GIF"/>
 - 🔭 Here's my [portfolio]                                                
-- 🌱 Actively learning and mentoring in Data Science, with a focus on real-world AI integration.
+- 🌱 Actively learning in Data Science, with a focus on real-world AI integration.
 - 💼 Previously worked with [Genxlead Solutions Pvt Ltd](https://www.genxlead.com/)
 - ☕ Fun fact: Coffee, curiosity, and code are my go-to algorithms.
 
