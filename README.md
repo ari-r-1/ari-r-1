@@ -49,7 +49,6 @@ Ex-Software Engineer @ Genxlead Solutions
 <code><img src="https://img.icons8.com/color/48/000000/docker.png" width="40" title="Docker"/></code>
 <code><img src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="40" title="Anaconda"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" title="Jupyter"/></code>
-<code><img src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="40" title="Anaconda"/></code>
 <code><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" title="Google Colab"/></code>
 <code><img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" width="40" title="Adobe Photoshop"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" width="40" title="Adobe Premiere Pro"/></code>
