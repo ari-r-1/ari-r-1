@@ -12,7 +12,7 @@ Ex-Software Engineer @ Genxlead Solutions
 
 <img align="right" width="370" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 [Portfolio & Projects](https://your-portfolio-url.com)
+- 🔭 [Portfolio & Projects](https://ari-r.vercel.app/)
 - 🌱 Actively learning in Data Science & AI integration
 - 💼 Ex: [Genxlead Solutions](https://www.genxlead.com/)
 - ☕ Fueled by coffee, curiosity, and code
