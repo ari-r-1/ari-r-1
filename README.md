@@ -12,7 +12,7 @@ Ex-Software Engineer @ Genxlead Solutions
 
 <img align="right" width="370" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 [Portfolio & Projects](https://ari-r.vercel.app/)
+- 🔭 [Portfolio & Projects](https://ari-ds.vercel.app/)
 - 🌱 Actively learning in Data Science & AI integration
 - 💼 Ex: [Genxlead Solutions](https://www.genxlead.com/)
 - ☕ Fueled by coffee, curiosity, and code
@@ -61,3 +61,4 @@ Ex-Software Engineer @ Genxlead Solutions
 [![GPU](https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
 
 ---
+
